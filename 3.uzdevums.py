@@ -1,5 +1,5 @@
 i=input("Ievadi skaitli: ")
-i=type(int)
+i=int(i)
 
 if i%2==0:
     print("Ievadījāt pāra skaitli.")
